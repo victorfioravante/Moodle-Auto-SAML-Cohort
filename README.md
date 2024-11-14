@@ -24,7 +24,7 @@ Este plugin adiciona automaticamente usuários autenticados via SAML2 a uma coor
 
 ## Suporte
 
-Desenvolvido por Victor Fioravante (victor.fioravante@gmail.com).
+Desenvolvido por Victor Fioravante.
 Para suporte, por favor crie uma issue no repositório do plugin.
 
 ## Licença
